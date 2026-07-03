@@ -1,4 +1,4 @@
-# 
+# Ultime AI Resume Builder extensions. Avec IA générative et IA explicable — optimisé pour des performances maximales.
 
 
 
